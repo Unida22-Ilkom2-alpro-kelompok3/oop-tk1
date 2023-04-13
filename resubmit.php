@@ -18,7 +18,7 @@ if (isset($_POST["submit"])) {
 ?>
 	<br>
 	<form method="post" action="forms.php">
-			<input type="submit" name="resubmit" value="Submit Another Form">
+			<input type="submit" name="resubmit" value="Resubmit">
 	</form>
 <?php
 }
