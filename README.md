@@ -4,3 +4,5 @@ Anggota :
 2. Daniel Ilyasa
 3. M. Rafi Musyaffa
 4. M. Rizki Rianto
+
+Masing - Masing kode anggota terdapat pada Branch masing-masing
